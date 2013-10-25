@@ -273,7 +273,7 @@ h3{
 .TopItemBody{
     background-color:#ffc6c7;
 	border-radius:0 5px 5px 5px;
-	margin-top:-20px;
+	margin-top:-25px;
     padding-bottom:5px;
 }
 
@@ -325,41 +325,53 @@ table{
 .freeDial, nextFreeDial{
     clear:both;
 }
-
-.resultBlock{
-    padding-bottom:20px;
-	background-color:#ffc6c7;
-	border-radius:10px 10px 10px 10px;
-}
-
-.victory{
-    font-size: 2.0em;
-    color:#FF9933;
-    padding-left:5px;
-}
-.specialAward{
-    font-size: 1.8em;
-    color:#FF0066;
-    padding-left:5px;
-}
-.jcnIchikawaAward{
-    font-size: 1.8em;
-    color:#FF0099;
-    padding-left:5px;
-}
-.incentiveAward{
-    font-size: 1.8em;
-    color:#CC0099;
-    padding-left:5px;
-}
-
-.IchikawashiZooAward{
+.ichikawashiZooAward{
     font-size: 1.8em;
     color:#99FF33;
     padding-left:5px;
 }
 .prizewinner{
-    font-size: 1.3em;
-    padding-left:5px;
+    font-size: 1.7em;
+    text-align:center;
 }
 
+.victoryTitle{
+	border-radius:5px 5px 0 0;
+	width:580px;
+	background-color:#FFCC66;
+	text-align:center;
+	font-size:1.1em;
+	color:#000;
+}
+.specialAwordTitle{
+	border-radius:5px 5px 0 0;
+	width:580px;
+	background-color:#FF6666;
+	text-align:center;
+	font-size:1.1em;
+	color:#000;
+}
+.jcnIchikawaAwordTitle{
+	border-radius:5px 5px 0 0;
+	width:580px;
+	background-color:#FF6699;
+	text-align:center;
+	font-size:1.1em;
+	color:#000;
+}
+.incentiveAwardTitle{
+	border-radius:5px 5px 0 0;
+	width:580px;
+	background-color:#FF66FF;
+	text-align:center;
+	font-size:1.1em;
+	color:#000;
+}
+.ichikawashiZooAwardTitle{
+	border-radius:5px 5px 0 0;
+	width:580px;
+	background-color:#CCFFCC;
+	text-align:center;
+	font-size:1.1em;
+	color:#000;
+}
